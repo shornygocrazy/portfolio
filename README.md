@@ -2,4 +2,7 @@
 - HTML
 - CSS
 - Adaptive layout
-[Linkedin]([https://www.linkedin.com/in/shorny/)
+## Check it:
+- [Linkedin]([https://www.linkedin.com/in/shorny/)
+- [Portfolio](https://github.com/shornygocrazy/portfolio/)
+- [Instagram](https://www.instagram.com/shornygocrazy/)
